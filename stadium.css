@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+.stadium{
+    text-align: center;
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.a{
+    color:black;
+}
+.box{
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    margin-bottom: 2px;
+    cursor: pointer;
+    
+}
+.new{
+    border: 3px solid black;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    cursor: pointer;
+
+}
+.std{
+    border: 3px solid black;
+    width: 380px;
+}
+.p{
+    color: black;
+}
